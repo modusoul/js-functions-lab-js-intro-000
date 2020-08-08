@@ -1,4 +1,4 @@
 function happyHolidays ()
 {
-return 'Happy Holidays!'
+return 'Happy holidays!'
 }// write your code below!
