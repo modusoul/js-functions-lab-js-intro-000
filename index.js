@@ -9,3 +9,6 @@ function happyHolidaysTo (name)
 }
 
 function happyCustomHolidayTo (holiday, name)
+{
+  
+}
